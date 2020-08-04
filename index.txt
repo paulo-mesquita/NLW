@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <!-- 
+        TAGs principais de html:
+            - head
+            - body
+    -->
+    <head>
+        <!-- Configurações do meu documento.-->
+
+        
+    </head>
+    <body>
+
+        <!-- Todo conteúdo visível na página, deverá vir na TAG body-->
+    </body>
+</html>
