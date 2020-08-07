@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/paulo-mesquita/NLW/blob/master/wallpaper/2%20-%20NLW%20%2302%20-%201920x1080.jpg?raw=true">
+<img width="auto" src="https://github.com/paulo-mesquita/NLW/blob/master/wallpaper/1%20-%20NLW%20%2302%20-%201400x900.jpg">
 
 # NLW
 Next Level Week
