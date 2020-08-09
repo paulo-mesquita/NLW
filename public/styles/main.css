@@ -50,7 +50,7 @@ body, input, button, textarea {
     font-weight: 500;
     font-family: Poppins;
     font-size: 1.6rem;
-    color: var(--color-text-base);
+    color: var(--color-text-complement);
 
 }
 

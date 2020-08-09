@@ -8,8 +8,11 @@ server.use(express.static("public"))
 
 })
 .get("/study", (req, res) => {
-    return res.send("Study")
+    return res.sendFile(__dirname + "/views/study.html")
+})
+
+.get("/give-classes", (req, res) => {
+    return res.sendFile(__dirname + "/views/give-classes.html")
 })
 
 .listen(5500)
-
